@@ -257,4 +257,8 @@ Use design patterns such that it can be reused in multiple applications.
 
 
 
+Other links
+http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before-system-design-interviews/
+
+
 
