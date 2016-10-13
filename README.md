@@ -262,4 +262,5 @@ http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before-syst
 
 http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/
 
+http://programmers.stackexchange.com/questions/75269/how-do-i-design-an-arbitrary-system-in-an-interview
 
